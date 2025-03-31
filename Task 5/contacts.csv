@@ -1,0 +1,21 @@
+name,number,email,address,status
+John Doe,0123-456-7890,johndoe@example.com,123 Main St Springfield IL,saved
+Jane Smith,0987-654-3210,janesmith@example.com,456 Elm St New York NY,not-saved  
+Michael Johnson,0555-123-4567,michaelj@example.com,789 Oak St Los Angeles CA,saved  
+Emily Davis,0222-333-4444,emilyd@example.com,321 Pine St Houston TX,not-saved  
+Robert Brown,0333-222-1111,robertb@example.com,654 Maple St Chicago IL,saved  
+Jessica Wilson,0444-555-6666,jessicaw@example.com,987 Birch St Phoenix AZ,not-saved  
+David Martinez,0777-888-9999,davidm@example.com,741 Cedar St Philadelphia PA,saved  
+Sarah Anderson,0666-777-8888,saraha@example.com,852 Aspen St San Antonio TX,not-saved  
+James Thomas,0999-000-1111,jamest@example.com,963 Cherry St San Diego CA,saved  
+Laura Jackson,0111-222-3333,lauraj@example.com,159 Magnolia St Dallas TX,not-saved  
+Daniel White,0888-999-0000,danielw@example.com,357 Willow St San Jose CA,saved  
+Sophia Harris,0123-987-6543,sophiah@example.com,753 Sycamore St Austin TX,not-saved  
+Christ Clark,0654-321-9876,chriscl@example.com,951 Spruce St Jacksonville FL,saved  
+Olivia Lewis,0321-654-9870,olivial@example.com,147 Dogwood St Fort Worth TX,not-saved  
+Matthew Walker,0777-666-5555,mattheww@example.com,369 Redwood St Columbus OH,saved  
+Isabella Young,0555-444-3333,isabellay@example.com,258 Hemlock St Charlotte NC,not-saved  
+Joshua Hall,0333-666-9999,puata@mail.school.co.za,147 Palm St Indianapolis IN,saved  
+Madison Allen,0888-777-6666,madisona@example.com,357 Fir St Seattle WA,not-saved  
+Ethan King,0222-111-0000,ethank@example.com,753 Cedar St Denver CO,saved  
+Ava Wright,0999-888-7777,avaw@example.com,951 Elm St Washington DC,not-saved  
